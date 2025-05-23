@@ -1,3 +1,8 @@
 [
-  "tests/test_google.py::test_google_homepage"
+  "tests/test_google.py::test_google_homepage",
+  "tests/test_login.py::test_invalid_login",
+  "tests/test_login.py::test_locked_out_user",
+  "tests/test_login.py::test_logout",
+  "tests/test_login.py::test_problem_user_login",
+  "tests/test_login.py::test_valid_login"
 ]
